@@ -195,4 +195,7 @@ alias zec instrument ZECUSDT
 alias zen instrument ZENUSDT
 alias zil instrument ZILUSDT
 alias zrx instrument ZRXUSDT
+alias pendle instrument PENDLEUSDT
+
+
 # ... Add more aliases as needed
