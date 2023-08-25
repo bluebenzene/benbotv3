@@ -1,0 +1,117 @@
+2023-08-25 09:12:24 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:12:24 - INFO - Logging in to client: blue
+2023-08-25 09:12:30 - INFO - Logging in to client: dala
+2023-08-25 09:12:33 - INFO - Logging in to client: c
+2023-08-25 09:12:38 - INFO - Logging in to client: ds
+2023-08-25 09:12:42 - INFO - Logging in to client: b
+2023-08-25 09:12:46 - INFO - Logging in to client: ob
+2023-08-25 09:12:52 - INFO - Logging in to group client: blue
+2023-08-25 09:12:52 - INFO - Logging in to group client: dala
+2023-08-25 09:12:53 - INFO - Logging in to group client: c
+2023-08-25 09:12:53 - INFO - Logging in to group client: ds
+2023-08-25 09:12:53 - INFO - Logging in to group client: b
+2023-08-25 09:12:53 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:13:53 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:13:53 - INFO - Logging in to client: blue
+2023-08-25 09:13:54 - INFO - Logging in to client: dala
+2023-08-25 09:13:55 - INFO - Logging in to client: c
+2023-08-25 09:13:55 - INFO - Logging in to client: ds
+2023-08-25 09:13:55 - INFO - Logging in to client: b
+2023-08-25 09:13:56 - INFO - Logging in to client: ob
+2023-08-25 09:13:56 - INFO - Logging in to group client: blue
+2023-08-25 09:13:56 - INFO - Logging in to group client: dala
+2023-08-25 09:13:56 - INFO - Logging in to group client: c
+2023-08-25 09:13:57 - INFO - Logging in to group client: ds
+2023-08-25 09:13:57 - INFO - Logging in to group client: b
+2023-08-25 09:13:57 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:14:57 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:14:57 - INFO - Logging in to client: blue
+2023-08-25 09:14:59 - INFO - Logging in to client: dala
+2023-08-25 09:14:59 - INFO - Logging in to client: c
+2023-08-25 09:15:00 - INFO - Logging in to client: ds
+2023-08-25 09:15:00 - INFO - Logging in to client: b
+2023-08-25 09:15:01 - INFO - Logging in to client: ob
+2023-08-25 09:15:01 - INFO - Logging in to group client: blue
+2023-08-25 09:15:01 - INFO - Logging in to group client: dala
+2023-08-25 09:15:01 - INFO - Logging in to group client: c
+2023-08-25 09:15:01 - INFO - Logging in to group client: ds
+2023-08-25 09:15:02 - INFO - Logging in to group client: b
+2023-08-25 09:15:02 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:16:02 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:16:02 - INFO - Logging in to client: blue
+2023-08-25 09:16:02 - INFO - Logging in to client: dala
+2023-08-25 09:16:03 - INFO - Logging in to client: c
+2023-08-25 09:16:03 - INFO - Logging in to client: ds
+2023-08-25 09:16:04 - INFO - Logging in to client: b
+2023-08-25 09:16:04 - INFO - Logging in to client: ob
+2023-08-25 09:16:05 - INFO - Logging in to group client: blue
+2023-08-25 09:16:05 - INFO - Logging in to group client: dala
+2023-08-25 09:16:05 - INFO - Logging in to group client: c
+2023-08-25 09:16:05 - INFO - Logging in to group client: ds
+2023-08-25 09:16:05 - INFO - Logging in to group client: b
+2023-08-25 09:16:06 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:17:06 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:17:06 - INFO - Logging in to client: blue
+2023-08-25 09:17:07 - INFO - Logging in to client: dala
+2023-08-25 09:17:08 - INFO - Logging in to client: c
+2023-08-25 09:17:08 - INFO - Logging in to client: ds
+2023-08-25 09:17:08 - INFO - Logging in to client: b
+2023-08-25 09:17:08 - INFO - Logging in to client: ob
+2023-08-25 09:17:09 - INFO - Logging in to group client: blue
+2023-08-25 09:17:09 - INFO - Logging in to group client: dala
+2023-08-25 09:17:09 - INFO - Logging in to group client: c
+2023-08-25 09:17:09 - INFO - Logging in to group client: ds
+2023-08-25 09:17:09 - INFO - Logging in to group client: b
+2023-08-25 09:17:09 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:18:09 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:18:09 - INFO - Logging in to client: blue
+2023-08-25 09:18:10 - INFO - Logging in to client: dala
+2023-08-25 09:18:11 - INFO - Logging in to client: c
+2023-08-25 09:18:11 - INFO - Logging in to client: ds
+2023-08-25 09:18:11 - INFO - Logging in to client: b
+2023-08-25 09:18:11 - INFO - Logging in to client: ob
+2023-08-25 09:18:11 - INFO - Logging in to group client: blue
+2023-08-25 09:18:12 - INFO - Logging in to group client: dala
+2023-08-25 09:18:12 - INFO - Logging in to group client: c
+2023-08-25 09:18:12 - INFO - Logging in to group client: ds
+2023-08-25 09:18:13 - INFO - Logging in to group client: b
+2023-08-25 09:18:13 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:19:13 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:19:13 - INFO - Logging in to client: blue
+2023-08-25 09:19:14 - INFO - Logging in to client: dala
+2023-08-25 09:19:15 - INFO - Logging in to client: c
+2023-08-25 09:19:15 - INFO - Logging in to client: ds
+2023-08-25 09:19:15 - INFO - Logging in to client: b
+2023-08-25 09:19:16 - INFO - Logging in to client: ob
+2023-08-25 09:19:16 - INFO - Logging in to group client: blue
+2023-08-25 09:19:16 - INFO - Logging in to group client: dala
+2023-08-25 09:19:16 - INFO - Logging in to group client: c
+2023-08-25 09:19:17 - INFO - Logging in to group client: ds
+2023-08-25 09:19:17 - INFO - Logging in to group client: b
+2023-08-25 09:19:17 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:20:17 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:20:17 - INFO - Logging in to client: blue
+2023-08-25 09:20:18 - INFO - Logging in to client: dala
+2023-08-25 09:20:18 - INFO - Logging in to client: c
+2023-08-25 09:20:19 - INFO - Logging in to client: ds
+2023-08-25 09:20:19 - INFO - Logging in to client: b
+2023-08-25 09:20:19 - INFO - Logging in to client: ob
+2023-08-25 09:20:19 - INFO - Logging in to group client: blue
+2023-08-25 09:20:19 - INFO - Logging in to group client: dala
+2023-08-25 09:20:19 - INFO - Logging in to group client: c
+2023-08-25 09:20:20 - INFO - Logging in to group client: ds
+2023-08-25 09:20:20 - INFO - Logging in to group client: b
+2023-08-25 09:20:20 - INFO - Background login completed. Sleeping for 1 minutes...
+2023-08-25 09:21:20 - INFO - Performing background login to all clients and groups...
+2023-08-25 09:21:20 - INFO - Logging in to client: blue
+2023-08-25 09:21:21 - INFO - Logging in to client: dala
+2023-08-25 09:21:22 - INFO - Logging in to client: c
+2023-08-25 09:21:22 - INFO - Logging in to client: ds
+2023-08-25 09:21:22 - INFO - Logging in to client: b
+2023-08-25 09:21:23 - INFO - Logging in to client: ob
+2023-08-25 09:21:23 - INFO - Logging in to group client: blue
+2023-08-25 09:21:23 - INFO - Logging in to group client: dala
+2023-08-25 09:21:24 - INFO - Logging in to group client: c
+2023-08-25 09:21:24 - INFO - Logging in to group client: ds
+2023-08-25 09:21:24 - INFO - Logging in to group client: b
+2023-08-25 09:21:24 - INFO - Background login completed. Sleeping for 1 minutes...

@@ -1,0 +1,57 @@
+{
+    "clients": {
+        "blue": {
+            "exchange": "binance",
+            "apiKey": "${bin_apikey}",
+            "secret": "${bin_seckey}",
+            "options": {
+                "defaultType": "future"
+            }
+        },
+        "dala": {
+            "exchange": "binance",
+            "apiKey": "${bindalaapi}",
+            "secret": "${bindalasec}",
+            "options": {
+                "defaultType": "future"
+            }
+        },
+        "c": {
+            "exchange": "binance",
+            "apiKey": "${bincapi}",
+            "secret": "${bincsec}",
+            "options": {
+                "defaultType": "spot"
+            }
+        },
+        "ds": {
+            "exchange": "binance",
+            "apiKey": "${bindalaapi}",
+            "secret": "${bindalasec}",
+            "options": {
+                "defaultType": "spot"
+            }
+        },
+        "b": {
+            "exchange": "binance",
+            "apiKey": "${binbapi}",
+            "secret": "${binbsec}",
+            "options": {
+                "defaultType": "future"
+            }
+        },
+        "ob": {
+            "exchange": "okex",
+            "apiKey": "${okxblueapi}",
+            "secret": "${okxbluesec}",
+            "password": "${okxbluepass}",
+            "options": {
+                "defaultType": "spot"
+            }
+        }
+    },
+    "groups": {
+        "copy": ["blue", "dala"],
+        "ben": ["c", "ds", "b"]
+    }
+}
