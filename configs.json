@@ -40,11 +40,11 @@
                 "defaultType": "future"
             }
         },
-        "ob": {
+        "od": {
             "exchange": "okex",
-            "apiKey": "${okxblueapi}",
-            "secret": "${okxbluesec}",
-            "password": "${okxbluepass}",
+            "apiKey": "${okxdaapi}",
+            "secret": "${okxdasec}",
+            "password": "${okxdapass}",
             "options": {
                 "defaultType": "spot"
             }

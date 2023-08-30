@@ -203,6 +203,6 @@ alias zen instrument ZENUSDT
 alias zil instrument ZILUSDT
 alias zrx instrument ZRXUSDT
 alias pendle instrument PENDLEUSDT
-
+alias cyber instrument CYBERUSDT
 
 # ... Add more aliases as needed
