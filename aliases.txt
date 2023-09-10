@@ -13,8 +13,11 @@ alias cl cancel_order
 alias cu close current
 alias r sell 20%
 alias u buy 20%
+alias i buy 10%
 alias b login b
 alias ben login ben
+alias ds login ds
+alias cone login c 
 alias q exit
 
 

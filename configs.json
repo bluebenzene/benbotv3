@@ -52,6 +52,6 @@
     },
     "groups": {
         "copy": ["blue", "dala"],
-        "ben": ["c", "ds", "b"]
+        "ben": ["c", "ds"]
     }
 }
